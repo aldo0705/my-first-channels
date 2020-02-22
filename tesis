@@ -1,0 +1,5 @@
+forzar version channels redis y django
+pip install -U channels==1.0.2
+pip install asgi_redis=1.0.0
+
+./redis-server (fuera del virtual env) en puerto default 6379
